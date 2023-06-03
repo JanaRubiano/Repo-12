@@ -85,3 +85,12 @@ Sintax:
 ```
 string.isupper()
 ```
+
+## 2. Code
+
+Code is designed to extract information from this <a href="https://drive.google.com/file/d/1lGmlAz157fIDp2zk95KInTSJguZusI91/view?usp=sharing">file</a>. 
+- Number of vowels
+- Number of consonants
+- 50 most frequent words
+- Recipients with number of received messages
+- Number of email sent each day
